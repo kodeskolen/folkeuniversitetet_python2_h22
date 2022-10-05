@@ -22,15 +22,13 @@ Dette er et nettkurs, som holdes via Zoom. Det er lurt å ha installert Zoom på
 
 Om du møter på problemer med å installere programvaren på forhånd kan du sende en mail til en av epost-addressene i info-mailen før kursstart, så skal vi prøve å hjelpe deg.
 
-**Om du har mulighet for å følge kurset fra en PC med to skjermer er dette til stor hjelp, så du kan ha zoom på en skjerm og en tekst-editor på den andre, slik at du kan prøve deg frem etterhvert som kurset går.**
+**Om du har mulighet for å følge kurset fra en PC med to skjermer er dette til stor hjelp, så du kan ha zoom på en skjerm og en tekst-editor på den andre, slik at du kan prøve deg frem etterhvert som kurset går.
 
 ## Materiale
 
-### Kompendium og jukselapp
+### Kompendium
 
-Komendiet for kurset finner du [her](kompendium.pdf). Dette kompendiet er egentlig laget for et litt større introduksjonskurs til Python - derfor dekker kompendiet alt vi går igjennom i dette kurset, og litt mer. Kompendiet er derfor med både som en ressurs du kan slå opp i temaene vi går igjennom, men også for å lære mer programmering på egenhånd.
-
-Vi har også laget en jukselapp, som inneholder noe av de viktigste konseptene fra kursdag 1, som dere kan finne [her](kodeskolens_jukselapp.pdf). Denne har vi laget fordi det er ganske mye nye konsepter dere skal lære på en gang, og mye å huske på. "Jukselappen" kan derfor gjøre det enklere å repetere konsepter fra dag 1 på de senere kursdagene.
+Komendiet for kurset finner du [her](kompendium.pdf). Dette kompendiet er egentlig laget for et litt større introduksjonskurs til Python - derfor dekker kompendiet alt fra introduksjonskurset og litt til. Kompendiet er derfor med både som en ressurs du kan slå opp i for repetisjon, men også for å lese mer om noen av temaene vi går gjennom her.
 
 Etterhvert som kurset går vil det dukke opp flere materialer, der vi vil dele oppgaver, bonusoppgaver, løsningsforslag og eksempler som vi live-koder.
 
