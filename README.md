@@ -39,8 +39,8 @@ Programmering, som så mye annet, læres best av å *gjøres*. I løpet av kurse
 Oppgavene og livekode er tilgjengelig her:
 * Dag 1: [Oppgaver](dag1/oppgaver_dag1.pdf), [løsningsforslag](dag1/oppgaver_dag1_løsningsforslag.pdf) og [eksempler](dag1/livekode) fra live-kodingen
 
-* Et hefte med bonusoppgaver finner du [her](./bonusoppgaver.pdf) (Kommer snart!)
-* Løsningsforslag for bonusoppgaver finner du [her](./loesnings_forslag_bonusoppgaver.pdf) (Kommer snart!)
+* Flere oppgaver for de ulike temaene i tillegg til oppgavene for hver dag finner du [her](oppgaver)
+  * Funksjoner og plotting: [Oppgaver](oppgaver/funksjoner_og_plotting.pdf) og [løsningsforslag](oppgaver/funksjoner_og_plotting_løsningsforslag.pdf)
 
 Om du ønsker enda flere oppgaver å bryne deg på kan vi anbefale følgende nettsider:
 * https://www.codewars.com/
