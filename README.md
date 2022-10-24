@@ -42,6 +42,7 @@ Oppgavene og livekode er tilgjengelig her:
 
 * Flere oppgaver for de ulike temaene finner du [her](oppgaver)
   * Funksjoner og plotting: [Oppgaver](oppgaver/funksjoner_og_plotting.pdf) og [løsningsforslag](oppgaver/funksjoner_og_plotting_løsningsforslag.pdf)
+  * Tekst, ordliste og Pandas: [Oppgaver](oppgaver/tekst_og_ordliste_og_pandas.pdf) og [løsningsforslag](oppgaver/tekst_og_ordliste_og_pandas_løsningsforslag.pdf)
 
 Om du ønsker enda flere oppgaver å bryne deg på kan vi anbefale følgende nettsider:
 * https://www.codewars.com/
