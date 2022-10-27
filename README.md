@@ -39,6 +39,7 @@ Programmering, som så mye annet, læres best av å *gjøres*. I løpet av kurse
 Oppgavene og livekode er tilgjengelig her:
 * Dag 1: [Oppgaver](dag1/oppgaver_dag1.pdf), [løsningsforslag](dag1/oppgaver_dag1_løsningsforslag.pdf) og [eksempler](dag1/livekode) fra live-kodingen
 * Dag 2: [Oppgaver](dag2/oppgaver_dag2.pdf), [løsningsforslag](dag2/oppgaver_dag2_løsningsforslag.pdf) og [eksempler](dag2/livekode) fra live-kodingen
+* Dag 3: [Oppgaver](dag3/oppgaver_dag3.pdf), [løsningsforslag](dag3/oppgaver_dag3_løsningsforslag.pdf) og [eksempler](dag3/livekode) fra live-kodingen
 
 * Flere oppgaver for de ulike temaene finner du [her](oppgaver)
   * Funksjoner og plotting: [Oppgaver](oppgaver/funksjoner_og_plotting.pdf) og [løsningsforslag](oppgaver/funksjoner_og_plotting_løsningsforslag.pdf)
